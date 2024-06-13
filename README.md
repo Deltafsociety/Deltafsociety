@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Delta. 20 y.o. trans women from bandarabbas, Iran.  I'm currently developing my skills on devops engineering
+Hi, I'm Delta. 21 y.o Computer Engineering at IAU, bandarabbas, Iran.  I'm currently developing my skills on Cyber Security
 
 
 ## 🌐 Socials:
