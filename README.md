@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! Delta is ... and I'm a Cyber Security Newbie from IRAN - BandarAbbas</h2>
+<h2 align="left">Hi I’m Delta. I’m a cybersecurity enthusiast, robotics educator, podcast host, and full-time freedom fan. I run on sugar, curiosity, and the belief that both software and people should be free to be their weird, wonderful selves.<br><br>I spend a lot of time defending digital spaces, teaching kids how to build robots, and starting deep conversations that usually begin with “quick question.” I love open-source everything, tech that respects users, and helping people take control of their digital lives.<br><br>My podcast is where I explore what’s on people’s minds, from everyday thoughts to big philosophical stuff. It’s casual, human, and sometimes accidentally profound.<br><br>If you care about freedom, tech ethics, and laughing at life’s absurd glitches, we’ll probably get along just fine.</h2>
 
 ###
 
@@ -55,6 +55,21 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deltafsociety&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deltafsociety&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/deltafsociety/deltafsociety/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
 
 ###
