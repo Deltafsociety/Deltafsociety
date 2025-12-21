@@ -1,4 +1,13 @@
-<h2 align="left">Hi I’m Delta. I’m a cybersecurity enthusiast, robotics educator, podcast host, and full-time freedom fan. I run on sugar, curiosity, and the belief that both software and people should be free to be their weird, wonderful selves.<br><br>I spend a lot of time defending digital spaces, teaching kids how to build robots, and starting deep conversations that usually begin with “quick question.” I love open-source everything, tech that respects users, and helping people take control of their digital lives.<br><br>My podcast is where I explore what’s on people’s minds, from everyday thoughts to big philosophical stuff. It’s casual, human, and sometimes accidentally profound.<br><br>If you care about freedom, tech ethics, and laughing at life’s absurd glitches, we’ll probably get along just fine.</h2>
+<h2 align="left">I’m Delta.
+I poke systems until they tell the truth.
+
+I care about digital freedom, open tech, and software that doesn’t treat users like products or idiots.
+
+Curiosity first. Consequences later. Understanding always.
+
+Mildly rebellious, genuinely curious, and allergic to corporate bullshit.
+
+If you like open source, privacy, and laughing while everything quietly catches fire, we’ll probably get along..</h2>
 
 ###
 
