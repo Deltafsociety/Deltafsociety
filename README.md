@@ -46,10 +46,9 @@
   <a href="https://www.linkedin.com/in/deltafs/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="t.me/deltaez" target="_blank">
+  <a href="https://t.me/deltaez" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
   <img src="https://img.shields.io/static/v1?message=Matrix&logo=matrix&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="matrix logo"  />
 </div>
 
@@ -64,12 +63,10 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/deltafsociety/deltafsociety/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <a href="https://tryhackme.com/p/deltafsociety" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/deltafsociety.png" alt="TryHackMe Badge" />
+  </a>
 </div>
 
 ###
