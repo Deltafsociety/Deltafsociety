@@ -9,42 +9,36 @@
 ╚═════╝ ╚══════╝╚══════╝╚═╝   ╚═╝  ╚═╝
 ```
 
-*I poke systems until they tell the truth.*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2500&pause=600&color=A64DFF&center=true&vCenter=true&multiline=false&repeat=true&width=620&lines=I+poke+systems+until+they+tell+the+truth.;Digital+freedom+is+non-negotiable.;Open+tech.+No+corporate+BS.;Mildly+rebellious.+Genuinely+curious.;If+everything%27s+on+fire%2C+at+least+it%27s+warm.;Stay+paranoid%2C+stay+free.)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=3000&pause=800&color=A64DFF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Digital+freedom+%7C+Open+tech+%7C+No+corporate+BS;Mildly+rebellious.+Genuinely+curious.+Permanently+caffeinated.)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a12,50:7b2dbb,100:d946ef&height=80&section=header&reversal=false&animation=fadeIn" width="100%"/>
 
 </div>
 
 ---
 
-```
-[ root@zist ~ ]$ whoami
-```
-
-> I care about digital freedom, open tech, and software that doesn't treat users like products — or idiots.
-> 
+> I care about digital freedom, open tech, and software that doesn't treat users like products or idiots.
+>
 > **Curiosity first. Consequences later. Understanding always.**
 >
-> If you like open source, privacy, and laughing while everything quietly catches fire — we'll get along just fine.
+> If you like open source, privacy, and laughing while everything quietly catches fire, we'll get along just fine.
 
 ---
 
-```
-[ root@zist ~ ]$ ls -la /skills
-```
+### Stack
 
 <div align="left">
 
-**// Languages & Markup**
+**Languages**
 
 ![HTML5](https://img.shields.io/badge/HTML5-1a0a2e?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-1a0a2e?style=flat-square&logo=css3&logoColor=1572B6)
 ![Python](https://img.shields.io/badge/Python-1a0a2e?style=flat-square&logo=python&logoColor=3776AB)
 ![C++](https://img.shields.io/badge/C++-1a0a2e?style=flat-square&logo=cplusplus&logoColor=00599C)
+![Rust](https://img.shields.io/badge/Rust-1a0a2e?style=flat-square&logo=rust&logoColor=f74c00)
 ![Bash](https://img.shields.io/badge/Bash-1a0a2e?style=flat-square&logo=gnubash&logoColor=4EAA25)
-![R](https://img.shields.io/badge/R-1a0a2e?style=flat-square&logo=r&logoColor=276DC3)
 
-**// Systems & Infra**
+**Systems & Infra**
 
 ![Linux](https://img.shields.io/badge/Linux-1a0a2e?style=flat-square&logo=linux&logoColor=FCC624)
 ![Debian](https://img.shields.io/badge/Debian-1a0a2e?style=flat-square&logo=debian&logoColor=A81D33)
@@ -55,12 +49,12 @@
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-1a0a2e?style=flat-square&logo=raspberrypi&logoColor=A22846)
 ![Arduino](https://img.shields.io/badge/Arduino-1a0a2e?style=flat-square&logo=arduino&logoColor=00979D)
 
-**// Data & Databases**
+**Data & Databases**
 
 ![MySQL](https://img.shields.io/badge/MySQL-1a0a2e?style=flat-square&logo=mysql&logoColor=4479A1)
 ![Redis](https://img.shields.io/badge/Redis-1a0a2e?style=flat-square&logo=redis&logoColor=FF4438)
 
-**// Tools**
+**Tools**
 
 ![WordPress](https://img.shields.io/badge/WordPress-1a0a2e?style=flat-square&logo=wordpress&logoColor=21759B)
 ![GIMP](https://img.shields.io/badge/GIMP-1a0a2e?style=flat-square&logo=gimp&logoColor=5C8A2C)
@@ -69,9 +63,7 @@
 
 ---
 
-```
-[ root@zist ~ ]$ cat /etc/stats
-```
+### Stats
 
 <div align="center">
 
@@ -83,13 +75,15 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=deltafsociety&bg_color=0a0a12&color=a64dff&line=7b2dbb&point=d946ef&area=true&hide_border=false&border_color=7b2dbb" width="100%" alt="Activity Graph"/>
 
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=deltafsociety&theme=dracula&hide_border=false&border=7b2dbb&background=0a0a12&ring=a64dff&fire=d946ef&currStreakLabel=a64dff&sideLabels=e9d5ff&currStreakNum=e9d5ff&sideNums=e9d5ff&dates=7b2dbb" height="150" alt="Streak Stats"/>
+
 </div>
 
 ---
 
-```
-[ root@zist ~ ]$ cat /etc/hacking-progress
-```
+### Hacking
 
 <div align="center">
 
@@ -99,9 +93,7 @@
 
 ---
 
-```
-[ root@zist ~ ]$ cat /etc/reach-me
-```
+### Reach me
 
 <div align="left">
 
@@ -116,13 +108,11 @@
 
 ---
 
-```
-[ root@zist ~ ]$ cat /etc/support
-```
+### 💜 Support
 
-> If my work has been useful to you — or you just respect the cause:
+> If my work has been useful or you just respect the cause:
 
-[![BCH](https://img.shields.io/badge/Bitcoin_Cash-donate-1a0a2e?style=for-the-badge&logo=bitcoincash&logoColor=white&labelColor=7b2dbb)](https://github.com/deltafsociety)
+[![BCH](https://img.shields.io/badge/Bitcoin_Cash-donate-1a0a2e?style=for-the-badge&logo=bitcoincash&logoColor=white&labelColor=7b2dbb)](#)
 
 `bitcoincash:` *(add your address here)*
 
@@ -130,7 +120,9 @@
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=deltafsociety&color=7b2dbb&style=flat-square&label=SYSTEM+VISITORS)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d946ef,50:7b2dbb,100:0a0a12&height=80&section=footer&animation=fadeIn" width="100%"/>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=deltafsociety&color=7b2dbb&style=flat-square&label=visitors)
 
 *`// stay paranoid, stay free`*
 
